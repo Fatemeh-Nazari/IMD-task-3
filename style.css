@@ -268,3 +268,13 @@ background-color: #fcf8e8d5;
     color:darkslategray;
     margin-top: 5px;
 }
+strong{
+    /* color: #252525; */
+    font-size: large;
+}
+strong:first-child{
+    color: rgb(128, 6, 6);
+}
+.rule::selection{
+    color: indianred;
+}
