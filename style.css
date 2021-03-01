@@ -236,3 +236,11 @@ background-color: #fcf8e8d5;
     color:darkslategray;
     margin-top: 5px;
 }
+strong{
+    /* color: #252525; */
+    font-size: large;
+    word-spacing: 5px;
+}
+strong:first-child{
+    color: rgb(128, 6, 6);
+}
