@@ -143,6 +143,7 @@ a:hover{
     color: black;
     text-size-adjust: 100px;
     line-height:50px;
+text-transform: capitalize;
 }
 .box-main{
     padding: 10px;
@@ -207,7 +208,7 @@ a:hover{
     display:block;
 border-radius: 10px;
 border-color: rgb(55, 56, 56);
-border-style: solid;
+border-style: inset;
 border-width: 1px;
 line-height: 40px;
 margin-top: 50px;
@@ -218,6 +219,7 @@ text-align: right;
 font-family:Arial, Helvetica, sans-serif;
 font-size: 16px;
 background-color: #fcf8e8d5;
+text-indent: 50px;
 }
 .right{
    margin-left:0px ; 
@@ -225,6 +227,8 @@ background-color: #fcf8e8d5;
    text-align: center;
    margin-top: 10px;
    margin-bottom: 10px;
+   text-indent: 50px;
+
 }
 .left{
     margin-right: 30px;
